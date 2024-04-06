@@ -1,5 +1,5 @@
 import express, { Router } from 'express';
-import noteController from '../controllers/NoteController';
+import noteController from '../controllers/noteController';
 
 /**
  * Route app object

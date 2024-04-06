@@ -1,7 +1,7 @@
 import express,{ Request, Response, NextFunction } from 'express';
 import noteRouter from './routes/noteRoutes';
 import bodyParser from 'body-parser';
-import requestLoggerMiddleware from './middleware/requestLoggerMiddleware'
+import requestLoggerMiddleware from './middleware/RequestLoggerMiddleware'
 
 
 const app = express();

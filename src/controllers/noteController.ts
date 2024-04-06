@@ -1,4 +1,4 @@
-import noteRepository from '../repository/NoteRepository';
+import noteRepository from '../repository/noteRepository';
 import {ResponseModel} from '../utility/ResponseModel'
 import logger from '../utility/Logger'
 
